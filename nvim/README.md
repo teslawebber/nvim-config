@@ -16,3 +16,6 @@ about though i would just suggest `git log -S`).
 * [a3bad06a](https://github.com/ThePrimeagen/init.lua/commit/a3bad06a4681c322538d609aa1c0bd18880f77c6) disabled eslint.  driving me crazy
 
 
+### My Changes
+If you want to use this, after cloning remove teslawebber and after directories.  
+The changes I have made have been done by me are included.
